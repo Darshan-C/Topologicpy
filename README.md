@@ -1,2 +1,2 @@
 # Topologicpy
-Projects done in topologic python inside nb
+Projects done in topologic python inside visual stidio code - juypter
