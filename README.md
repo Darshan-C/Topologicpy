@@ -1,2 +1,2 @@
 # Topologicpy
-Projects done in topologic python inside visual stidio code - juypter
+Projects done with topologic python inside visual studio code - juypter
